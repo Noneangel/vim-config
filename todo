@@ -1,0 +1,5 @@
+Plugins to install:
+ - https://github.com/kshenoy/vim-signature
+ - https://github.com/tpope/vim-fugitive
+ - https://github.com/Shougo/denite.nvim
+ - https://github.com/vim-airline/vim-airline

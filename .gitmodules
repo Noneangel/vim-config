@@ -1,0 +1,12 @@
+[submodule "pack/my-plugins/start/nerdtree"]
+	path = pack/my-plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "pack/my-plugins/start/nerdtree-git-plugin"]
+	path = pack/my-plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule "pack/my-plugins/start/tagbar"]
+	path = pack/my-plugins/start/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "pack/my-plugins/start/yats.vim"]
+	path = pack/my-plugins/start/yats.vim
+	url = https://github.com/HerringtonDarkholme/yats.vim.git
